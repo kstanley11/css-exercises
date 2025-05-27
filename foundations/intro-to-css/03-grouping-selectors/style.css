@@ -1,9 +1,7 @@
 .click-me,
-.alt-click-me
- {
+.alt-click-me {
     font-family: Helvetica, "Times New Roman", sans-serif;
-    font-size: 28px
-    border-width: 1px;
+    font-size: 28px;
 }
 
 .click-me {
